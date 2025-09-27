@@ -2,6 +2,8 @@
 
 Sistema de gerenciamento de tarefas desenvolvido com Laravel Lumen, utilizando MySQL para dados das tarefas e logs de eventos.
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## 🚀 Tecnologias Utilizadas
 
 -   **PHP 8.2+**
